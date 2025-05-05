@@ -1,0 +1,38 @@
+# Xilinx Vivado
+*.log
+*.jou
+*.str
+*.zip
+*.bit
+*.bin
+*.mmi
+*.debug
+
+# Simulation files
+*.wdb
+*.vcd
+*.vvp
+
+# Build directories
+build/
+output/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*~
+
+# Compiled files
+*.o
+*.ko
+*.obj
+*.elf
+*.bin
+*.hex
+
+# Simulation intermediate files
+*.vvp
+*.vcd
