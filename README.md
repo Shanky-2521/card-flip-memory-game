@@ -1,10 +1,10 @@
-# Memory Maestro: An FPGA-Powered Card Flipping Adventure 🎮🧠
+# Memory Maestro: An FPGA-Powered Card Flipping Adventure 
 
-## Welcome to the Game! 🚀
+## Welcome to the Game!
 
 Imagine a classic memory game, but with a twist - it's running on a custom hardware platform that brings digital magic to life! This project transforms a simple card-flipping game into a high-performance embedded system adventure.
 
-### What Makes This Special? ✨
+### What Makes This Special? 
 
 - **VGA Visual Feast**: A crisp 4x4 grid that brings your memory challenge to life
 - **Responsive Controls**: Navigate and flip cards with precision GPIO switches
@@ -12,7 +12,7 @@ Imagine a classic memory game, but with a twist - it's running on a custom hardw
 - **Smart Timing**: Intelligent card flip delays that keep you on your toes
 - **Event Logging**: Optional UART output to track your gaming journey
 
-### Under the Hood 🔧
+### Under the Hood 
 
 We're powering this game with some serious tech:
 - **Brain**: ARM Cortex-M0 Processor
@@ -21,7 +21,7 @@ We're powering this game with some serious tech:
 - **Display**: Crystal-clear VGA Output
 - **Controls**: Responsive GPIO Switches
 
-## Project Anatomy 🗂️
+## Project Anatomy 🗂
 
 - `docs/`: Where the story of our project lives
 - `src/rtl/`: The hardware description (our game's DNA)
@@ -30,13 +30,13 @@ We're powering this game with some serious tech:
 - `constraints/`: FPGA connection blueprints
 - `scripts/`: Build and deployment wizardry
 
-## Let's Get Started! 🎲
+## Let's Get Started! 
 
 ### What You'll Need
 - Xilinx Vivado Design Suite (2019.1 or newer)
 - Xilinx Artix-7 FPGA Board
 - USB Programming Cable
-- A spirit of adventure! 🌟
+- A spirit of adventure! 
 
 ### Setup in 2 Easy Steps
 
